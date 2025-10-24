@@ -1,4 +1,11 @@
+# 👋 Hey there, I'm Silverio!
+Computer Science student and ever inquisitive learner.
 
+I specialize in working with data and memory manipulation, creating many side projects to learn out how things work and improving my skills and efficiency.
+
+<hr>
+
+## ✉️ Contacts
 <br>
 
 <div align="center">
