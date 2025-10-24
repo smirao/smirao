@@ -3,8 +3,10 @@ Computer Science student and ever inquisitive learner.
 
 I specialize in working with data and memory manipulation, creating many side projects to learn out how things work and improving my skills and efficiency.
 
-<br>
+<hr>
+
 ## ✉️ Contacts
+<br>
 
 <div align="center">
   <a href="silverio.a.mirao@gmail.com">
@@ -15,21 +17,27 @@ I specialize in working with data and memory manipulation, creating many side pr
   </a>
 </div>
 
-<br>
+<hr>
+
 ## 🛠️ Languages and Tools
 
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,python" />
   <img src="https://skillicons.dev/icons?i=html,css,js,git,postman" />
 </p>
 
-<br>
+<hr>
+
 ## ⚡️ Stats
 
+<br>
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=smirao&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Silverio's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=smirao&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Silverio's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=smirao&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Silverio's Most Used Languages" />
 </div>
+
+<hr>
