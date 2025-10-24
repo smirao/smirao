@@ -6,7 +6,6 @@ I specialize in working with data and memory manipulation, creating many side pr
 <hr>
 
 ## ✉️ Contacts
-<br>
 
 <div align="center">
   <a href="silverio.a.mirao@gmail.com">
@@ -21,7 +20,6 @@ I specialize in working with data and memory manipulation, creating many side pr
 
 ## 🛠️ Languages and Tools
 
-<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,python" />
@@ -32,7 +30,6 @@ I specialize in working with data and memory manipulation, creating many side pr
 
 ## ⚡️ Stats
 
-<br>
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=smirao&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Silverio's GitHub Stats" />
