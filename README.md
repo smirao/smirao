@@ -3,8 +3,7 @@ Computer Science student and ever inquisitive learner.
 
 I specialize in working with data and memory manipulation, creating many side projects to learn out how things work and improving my skills and efficiency.
 
-<hr>
-
+<br>
 ## ✉️ Contacts
 <br>
 
@@ -17,8 +16,7 @@ I specialize in working with data and memory manipulation, creating many side pr
   </a>
 </div>
 
-<hr>
-
+<br>
 ## 🛠️ Languages and Tools
 
 <br>
@@ -40,4 +38,4 @@ I specialize in working with data and memory manipulation, creating many side pr
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=smirao&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Silverio's Most Used Languages" />
 </div>
 
-<hr>
+<br>
