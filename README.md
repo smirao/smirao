@@ -28,7 +28,7 @@ I specialize in working with data and memory manipulation, creating many side pr
   <img src="https://skillicons.dev/icons?i=html,css,js,git,postman" />
 </p>
 
-<hr>
+<br>
 
 ## ⚡️ Stats
 
