@@ -3,8 +3,10 @@ Computer Science student and ever inquisitive learner.
 
 I specialize in working with data and memory manipulation, creating many side projects to learn out how things work and improving my skills and efficiency.
 
-<br>
+<br> 
+
 ## ✉️ Contacts
+
 <br>
 
 <div align="center">
@@ -17,6 +19,7 @@ I specialize in working with data and memory manipulation, creating many side pr
 </div>
 
 <br>
+
 ## 🛠️ Languages and Tools
 
 <br>
