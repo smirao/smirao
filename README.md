@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Silverio!
+<h1>👋 Hey there, I'm Silverio!</h1>
 
 ### Computer Science Student | Data Enthusiast | Lifelong Learner
 
