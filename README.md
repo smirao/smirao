@@ -41,4 +41,17 @@ I specialize in **data manipulation** and **memory optimization**, constantly bu
 
 <img src="https://komarev.com/ghpvc/?username=smirao&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
+<img src="https://komarev.com/ghpvc/?username=smirao&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<svg xmlns="http://www.w3.org/2000/svg" width="197" height="28" role="img">
+  <title>LeetCode Counter</title>
+  <g shape-rendering="crispEdges">
+    <rect width="152" height="28" fill="#555"/>
+    <rect x="152" width="44.50244140625" height="28" fill="#ffa118"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" text-rendering="geometricPrecision" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" letter-spacing="1.1">
+    <text x="76" y="17.5" fill="#fff">LeetCodes Completed</text>
+    <text x="174" y="17.5" fill="#fff" font-weight="bold"><span class="to-change">24</span></text>
+  </g>
+</svg>
+
 </div>
