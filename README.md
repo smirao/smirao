@@ -41,5 +41,8 @@ I specialize in **data manipulation** and **memory optimization**, constantly bu
 
 <img src="https://komarev.com/ghpvc/?username=smirao&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
+<br>
+
+<img src="https://img.shields.io/badge/LeetCodes%20Completed-36-yellow?style=for-the-badge" alt="LeetCodes Completed" />
 
 </div>
