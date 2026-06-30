@@ -43,6 +43,6 @@ I specialize in **data manipulation** and **memory optimization**, constantly bu
 
 <br>
 
-<span class="to-change"><img src="https://img.shields.io/badge/LeetCodes%20Completed-40-yellow?style=for-the-badge" alt="LeetCodes Completed" /></span>
+<span class="to-change"><img src="https://img.shields.io/badge/LeetCodes%20Completed-41-yellow?style=for-the-badge" alt="LeetCodes Completed" /></span>
 
 </div>
